@@ -4,3 +4,6 @@ I am **AFellowSpeedrunner/MrMasterKeyboard**, an autistic programmer teenager fr
 
 ## What projects may I make in the future?
 Maybe a proxy unblocker? That's number one on my list right now along with personal projects.
+
+## My user statistics!
+![myuseroverview](https://github-readme-stats.vercel.app/api?username=afellowspeedrunner&show_icons=true)

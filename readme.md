@@ -4,9 +4,8 @@ I am **AFellowSpeedrunner/MrMasterKeyboard**, creator of the SmolXP project. I'm
 
 ## What projects am I making currently?
 - (Currently not public) LunaEFI and LunaOS, an EEPROM loader and OS for OcelotDesktop based off of the MineEFI and MineOS codebase which I am developing with my friend [@QM8782](https://github.com/QM8782).
-- (Updates are on [my Mastodon page](https://mastodon.social/@MrMasterKeyboard)) [Buildroot3DS](https://github.com/AFellowSpeedrunner/Buildroot3DS), the first ever PROPER Linux distro for the 3DS family systems based off of the projects and work done by the "linux-3ds" GitHub group.
+- (Updates are on [my Mastodon page](https://mastodon.social/@MrMasterKeyboard)) [Buildroot3DS](https://github.com/AFellowSpeedrunner/Buildroot3DS), the first ever PROPER Linux distro for the 3DS family systems based off of the projects and work done by the ["linux-3ds"](https://github.com/linux-3ds) GitHub group. I am also modifing their Linux kernel 3DS port under [linux3ds-kernel](https://github.com/AFellowSpeedrunner/linux3ds-kernel).
 - [SmolXP](https://github.com/afellowspeedrunner/smolxp)! A big project of mine that has now gotten to 2.0!
-- (ON HOLD) My upcoming 2009 to 2013 themed blog website over [here](https://afellowspeedrunner.github.io).  
 
 ## What projects may I make in the future?
 - Maybe a proxy unblocker?

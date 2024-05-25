@@ -11,4 +11,4 @@ I am **AFellowSpeedrunner/MrMasterKeyboard**, creator of the SmolXP project (I n
 - Maybe a proxy unblocker?
 
 ## My user statistics!
-![myuseroverview](https://github-readme-stats.vercel.app/api?username=afellowspeedrunner&show_icons=true)
+![myuseroverview](https://github-readme-stats.vercel.app/api?username=afellowspeedrunner&show_icons=true&theme=dark)

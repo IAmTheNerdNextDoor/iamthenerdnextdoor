@@ -5,6 +5,8 @@ I am **AFellowSpeedrunner/MrMasterKeyboard**, creator of the LUM/MARINER project
 ## What projects am I making currently?
 - (Updates are on [my Mastodon page](https://mastodon.social/@MrMasterKeyboard)) [LUM/MARINER](https://github.com/AFellowSpeedrunner/LUM-MARINER) is a Rust kernel OS project that aims to be a clone of XNU/Darwin without the Apple components and branding and fully open-source. It is still very early in development, and contributions are highly appreciated!
 
+- [Velocity Kernel](https://github.com/AFellowSpeedrunner/velocitykernel-linux) is a fork of Linux which is an attempt to make the Linux kernel be as fast as computationally possible which I will eventually compliment with a distro that is made to be fast as well. The current goal is to optimise and speed the kernel up to possibly boot to a login screen in under a second or around it.
+
 - (Updates are on [my Mastodon page](https://mastodon.social/@MrMasterKeyboard)) [Buildroot3DS](https://github.com/AFellowSpeedrunner/Buildroot3DS), the first ever PROPER Linux distro for the 3DS family systems based off of the projects and work done by the ["linux-3ds"](https://github.com/linux-3ds) GitHub group. I am also modifing their Linux kernel 3DS port under [linux3ds-kernel](https://github.com/AFellowSpeedrunner/linux3ds-kernel).
 
 - (Currently not public) LunaEFI and LunaOS, an EEPROM loader and OS for OcelotDesktop based off of the MineEFI and MineOS codebase which I am developing with my friend [@QM8782](https://github.com/QM8782).

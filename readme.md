@@ -3,7 +3,9 @@
 I am **AFellowSpeedrunner/MrMasterKeyboard**, creator of the LUM/MARINER project and the Buildroot3DS project which is a fork of the linux-3ds teams Buildroot port. I'm an autistic programmer teenager from Scotland who is hoping to get into University to do CompSci after high school and also has some experience in (not much of any, but a bit of) Rust, Python, Lua, C, C++ and Assembly.
 
 ## What projects am I making currently?
-- (Updates are on [my Mastodon page](https://mastodon.social/@MrMasterKeyboard)) [LUM/MARINER](https://github.com/AFellowSpeedrunner/LUM-MARINER) is a Rust kernel OS project that aims to be a clone of XNU/Darwin without the Apple components and branding and fully open-source. It is still very early in development, and contributions are highly appreciated!
+- [secuOS](https://github.com/AFellowSpeedrunner/secuOS), an alternative OS for the iPhone based off of the [pongoOS](https://github.com/checkra1n/PongoOS) project.
+
+- (CURRENTLY HALTED Updates are on [my Mastodon page](https://mastodon.social/@MrMasterKeyboard)) [LUM/MARINER](https://github.com/AFellowSpeedrunner/LUM-MARINER) is a Rust kernel OS project that aims to be a clone of XNU/Darwin without the Apple components and branding and fully open-source. It is still very early in development, and contributions are highly appreciated!
 
 - (Hasn't properly begun) [Velocity Kernel](https://github.com/AFellowSpeedrunner/velocitykernel-linux) is a fork of Linux which is an attempt to make the Linux kernel be as fast as computationally possible which I will eventually compliment with a distro that is made to be fast as well. The current goal is to optimise and speed the kernel up to possibly boot to a login screen in under a second or around it.
 

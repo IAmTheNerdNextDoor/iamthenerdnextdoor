@@ -5,7 +5,7 @@ I am **AFellowSpeedrunner/MrMasterKeyboard**. I'm an autistic programmer teenage
 ## What projects am I making currently?
 - [secuOS](https://github.com/AFellowSpeedrunner/secuOS), an alternative OS for the iPhone based off of the [pongoOS](https://github.com/checkra1n/PongoOS) project.
 
-- [TurboArtix](https://github.com/AFellowSpeedrunner/turboartix), a project I'm working on with [@vendor_dlkm](https://github.com/vendor_dlkm) which is a fork of TurboArch. This will allow you convert most systems to Artix Linux.
+- [TurboArtix](https://github.com/AFellowSpeedrunner/turboartix), a project I'm working on with [@vendor-dlkm](https://github.com/vendor-dlkm) which is a fork of TurboArch. This will allow you convert most systems to Artix Linux.
 
 - (CURRENTLY HALTED Updates are on [my Mastodon page](https://mastodon.social/@MrMasterKeyboard)) [LUM/MARINER](https://github.com/AFellowSpeedrunner/LUM-MARINER) is a Rust kernel OS project that aims to be a clone of XNU/Darwin without the Apple components and branding and fully open-source. It is still very early in development, and contributions are highly appreciated!
 

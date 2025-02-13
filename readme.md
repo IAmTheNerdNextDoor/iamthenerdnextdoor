@@ -9,8 +9,6 @@ I am **NerdNextDoor**. I'm an autistic programmer teenager from Scotland who is 
 
 - (Not in active development) [TurboArtix](https://github.com/IAmTheNerdNextDoor/turboartix), a project I'm working on with [@vendor-dlkm](https://github.com/vendor-dlkm) which is a fork of TurboArch. This will allow you convert most systems to Artix Linux.
 
-- (TEMPORARY INDEFINITE SUSPENSION) [LUM/MARINER](https://github.com/IAmTheNerdNextDoor/LUM-MARINER) is a Rust kernel OS project that aims to be a clone of XNU/Darwin without the Apple components and branding and fully open-source. It is still very early in development, and contributions are highly appreciated!
-
 - (Not in active development) [Buildroot3DS](https://github.com/IAmTheNerdNextDoor/Buildroot3DS), the first ever PROPER Linux distro for the 3DS family systems based off of the projects and work done by the ["linux-3ds"](https://github.com/linux-3ds) GitHub group. I am also modifing their Linux kernel 3DS port under [linux3ds-kernel](https://github.com/IAmTheNerdNextDoor/linux3ds-kernel).
 
 ## My user statistics!

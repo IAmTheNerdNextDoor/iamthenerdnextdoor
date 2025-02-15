@@ -5,7 +5,7 @@ I am **NerdNextDoor**. I'm an autistic programmer teenager from Scotland who is 
 ## What projects am I making currently?
 - [Arikoto](https://github.com/IAmTheNerdNextDoor/arikoto), a personal OS project that is inspired by and is aiming to have a similar nature to ToaruOS. 
 
-- (On and off development) [secuOS](https://github.com/IAmTheNerdNextDoor/secuOS), an alternative OS for the iPhone based off of the [pongoOS](https://github.com/checkra1n/PongoOS) project.
+- (Not in active development) [secuOS](https://github.com/IAmTheNerdNextDoor/secuOS), an alternative OS for the iPhone based off of the [pongoOS](https://github.com/checkra1n/PongoOS) project.
 
 - (Not in active development) [TurboArtix](https://github.com/IAmTheNerdNextDoor/turboartix), a project I'm working on with [@vendor-dlkm](https://github.com/vendor-dlkm) which is a fork of TurboArch. This will allow you convert most systems to Artix Linux.
 

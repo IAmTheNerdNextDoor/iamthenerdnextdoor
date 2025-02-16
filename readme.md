@@ -1,6 +1,6 @@
 ![my custom typing graphic](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=44&duration=2000&pause=1000&color=F3C0FB&repeat=false&random=false&height=70&width=500&lines=Welcome+to+my+profile!)
 ## About me
-I am **NerdNextDoor**. I'm an autistic programmer teenager from Scotland who is hoping to get into University to do CompSci after high school and also has some experience in (not much of any, but a bit of) Rust, Python, Lua, C, C++ and Assembly.
+I am the **NerdNextDoor**, an autistic programmer teenager from Scotland who is hoping to get into university to do CompSci with Cybersecurity after high school and also has some experience in (not much of any, but a bit of) Python, Lua, C, C++ and Assembly.
 
 ## What projects am I making currently?
 - [Arikoto](https://github.com/IAmTheNerdNextDoor/arikoto), a personal OS project that is inspired by and is aiming to have a similar nature to ToaruOS. 

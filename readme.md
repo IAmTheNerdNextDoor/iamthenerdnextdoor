@@ -2,6 +2,8 @@
 ## About me
 I am the **NerdNextDoor**, an autistic programmer teenager from Scotland who is hoping to get into university to do CompSci with Cybersecurity after high school and also has some experience in (not much of any, but a bit of) Python, Lua, C, C++ and Assembly.
 
+I am also the sole maintainer of the [Kuroko programming language](https://github.com/kuroko-lang/kuroko) for Alpine Linux.
+
 ## What projects am I making currently?
 - [Arikoto](https://github.com/IAmTheNerdNextDoor/arikoto), a personal OS project that is inspired by and is aiming to have a similar nature to ToaruOS. 
 

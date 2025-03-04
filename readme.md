@@ -1,6 +1,6 @@
 ## Hello!
 ### About me
-I am the **NerdNextDoor**, an autistic programmer teenager from Scotland who is hoping to get into university to do CompSci with Cybersecurity after high school and also has some experience in (not much of any, but a bit of) Python, Kuroko, Lua, C, C++ and Assembly.
+I am the **NerdNextDoor**, an autistic OSDev teenager from Scotland who is hoping to get into university to do CompSci with Cybersecurity after high school and also has some experience in (not much of any, but a bit of) Python, Kuroko, Lua, C, C++ and Assembly.
 
 I am also the sole maintainer of the [Kuroko programming language](https://github.com/kuroko-lang/kuroko) for Alpine Linux.
 

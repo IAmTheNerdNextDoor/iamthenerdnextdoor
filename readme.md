@@ -4,7 +4,7 @@ I am the **NerdNextDoor**, an autistic OSDev teenager from Scotland who is hopin
 
 ### I am...
 
-- the sole maintainer of the [Kuroko programming language](https://kuroko-lang.github.io) for [Alpine Linux](https://gitlab.alpinelinux.org/alpine/aports/-/blob/master/community/kuroko/APKBUILD).
+- the sole maintainer of the [Kuroko programming language](https://kuroko-lang.github.io) and [Bim text editor](https://github.com/klange/bim) for [Alpine Linux](https://gitlab.alpinelinux.org/alpine/aports/-/blob/master/community/kuroko/APKBUILD).
 - working on an Operating System development project called [Arikoto](https://arikoto.nerdnextdoor.net).
 - a digital musician (although I don't post my music a lot, usually only for my personal enjoyment).
 

@@ -13,4 +13,4 @@ I am the **NerdNextDoor**, an autistic OSDev teenager from Scotland who is hopin
 
 ![IAmTheNerdNextDoor's Stats](https://github-readme-stats.vercel.app/api?username=IAmTheNerdNextDoor&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![IAmTheNerdNextDoor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTheNerdNextDoor&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![IAmTheNerdNextDoor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTheNerdNextDoor&theme=vue-dark&hide_border=true&layout=compact)

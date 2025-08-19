@@ -1,14 +1,15 @@
-## Hello!
+## Hello! - Please visit my Codeberg instead: https://codeberg.org/NerdNextDoor
+
 ### About me
 I am the **NerdNextDoor**, an autistic OSDev teenager from Scotland who is hoping to get into university to do CompSci with Cybersecurity after high school and also has some experience in (not much of any, but a bit of) Python, Kuroko, Lua, C, Rust, C++ and Assembly.
 
 ### I am...
 
 - the sole maintainer of the [Kuroko programming language](https://kuroko-lang.github.io) and [Bim text editor](https://github.com/klange/bim) for [Alpine Linux](https://alpinelinux.org/).
-- the creator of the [Segfault Cascade](https://github.com/IAmTheNerdNextDoor/segfaultcascade) patcher for [Black Mesa](https://www.crowbarcollective.com/games/black-mesa).
-- working on [Ribbonwind](https://github.com/IAmTheNerdNextDoor/Ribbonwind).
+- the creator of the [Segfault Cascade](https://codeberg.org/NerdNextDoor/segfaultcascade) patcher for [Black Mesa](https://www.crowbarcollective.com/games/black-mesa).
+- working on [Ribbonwind](https://codeberg.org/NerdNextDoor/Ribbonwind).
 - working on an Operating System development project called [Arikoto](https://arikoto.nerdnextdoor.net).
-- working on [toaru-rs](https://github.com/IAmTheNerdNextDoor/toaru-rs).
+- working on [toaru-rs](https://codeberg.org/NerdNextDoor/toaru-rs).
 - a digital musician (although I don't post my music a lot, usually only for my personal enjoyment).
 
 ### My statistics

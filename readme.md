@@ -6,6 +6,7 @@ I am the **NerdNextDoor**, an autistic OSDev teenager from Scotland who is hopin
 ### I am...
 
 - the sole maintainer of the [Kuroko programming language](https://kuroko-lang.github.io) and [Bim text editor](https://github.com/klange/bim) for [Alpine Linux](https://alpinelinux.org/).
+- the individual behind the [port](https://codeberg.org/NerdNextDoor/esh-darwin) of [E-Shell](https://github.com/klange/toaruos/blob/master/apps/esh.c) to macOS/Darwin.
 - the creator of the [Segfault Cascade](https://codeberg.org/NerdNextDoor/segfaultcascade) patcher for [Black Mesa](https://www.crowbarcollective.com/games/black-mesa).
 - working on [Ribbonwind](https://codeberg.org/NerdNextDoor/Ribbonwind).
 - working on an Operating System development project called [Arikoto](https://arikoto.nerdnextdoor.net).

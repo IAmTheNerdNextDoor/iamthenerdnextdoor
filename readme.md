@@ -1,7 +1,7 @@
 ## Hello! - Please visit my Codeberg instead: https://codeberg.org/NerdNextDoor
 
 ### About me
-I am the **NerdNextDoor**, an autistic OSDev teenager from Scotland who is hoping to get into university to do CompSci with Cybersecurity after high school and also has some experience in (not much of any, but a bit of) Python, Kuroko, Lua, C, Rust, C++ and Assembly.
+I am the **NerdNextDoor**, an autistic OSDev teenager from Scotland who is hoping to get into university to do Computing Science after I go to college and also has some experience in (not much of any, but a bit of) Python, Kuroko, Lua, C, Rust, C++ and Assembly.
 
 ### I am...
 
